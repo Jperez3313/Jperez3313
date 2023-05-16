@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jackson</h1>
-<h3 align="center">A passionate student interested in Programming && Infrastructure</h3>
+<h3 align="center">A passionate student interested in Programming & Infrastructure</h3>
 
 - 🌱 I’m currently learning **Kubernetes**
 
