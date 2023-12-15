@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jackson</h1>
-<h3 align="center">Currently employed by Tech Square Inc, in an apprenticeship type role.</h3>
-
-- 🌱 I’m currently learning **Salt Stack**
-
-- 💬 Ask me about **Python, Linux, System Administration**
+<h3 align="center">Currently employed by Tech Square Inc as a Linux System Administrator</h3>
 
 - 📫 How to reach me **jaxzp33@gmail.com**
 
