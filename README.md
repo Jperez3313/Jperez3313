@@ -48,7 +48,6 @@
 - High Performance Computing (HPC) systems administration  
 - Linux server provisioning, maintenance, and tuning  
 - Automation with shell scripts, Python, and configuration management tools  
-- Building reproducible HPC software environments using Spack  
 - Debugging low-level system/network/storage issues in production environments  
 - Supporting multi-user environments for researchers, scientists, and engineers
 
